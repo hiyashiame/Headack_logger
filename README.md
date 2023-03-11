@@ -13,6 +13,12 @@
 
 # 2 Hardware wiring
 
+![Image 1](image/wiring1.png)
+
+For getting the voltage of power supply is below,
+![Image 2](image/power_measurement.jpg)
+
+
  <br><br><br><br>
  From now on, by Japanese...
 
